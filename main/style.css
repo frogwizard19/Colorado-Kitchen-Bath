@@ -1,1 +1,6 @@
-lib/style.css
+body {
+  height: 75%;
+  margin: 0; 
+  text-align: center; 
+  width: 75%
+}
